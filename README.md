@@ -1,2 +1,2 @@
 # botBingRewards
-![ss][(screenshot/ss.png)]
+![ss](screenshot/ss.png)
