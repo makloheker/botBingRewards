@@ -9,7 +9,7 @@ from google.genai import types
 
 def generate(jumlah):
     client = genai.Client(
-        api_key="AIzaSyBuQdT3lVhiqEKpWzyo5QDtiR1UeO9zCHs"
+        api_key="kambingberanak"
     )
     searchBing = f"berikan {jumlah} pencarian random yang sering dicari hari ini"
     model = "gemini-2.5-flash"
